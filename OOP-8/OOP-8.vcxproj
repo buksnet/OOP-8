@@ -127,18 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Dialog.cpp" />
+    <ClCompile Include="Event.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Print.cpp" />
     <ClCompile Include="Vector.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Dialog.h" />
     <ClInclude Include="Event.h" />
     <ClInclude Include="Object.h" />
     <ClInclude Include="Print.h" />
     <ClInclude Include="resource.h" />
-    <ClInclude Include="Tree.h" />
     <ClInclude Include="Vector.h" />
   </ItemGroup>
   <ItemGroup>
